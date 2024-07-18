@@ -12,9 +12,7 @@ export default function Home() {
 
       <main>
         <Header title="Bienvenue!" />
-        <p className="description">
-         Le site est en cours de développement !</code>
-        </p>
+        <p className="description">Le site est en cours de développement !</p>
       </main>
 
       <Footer />
